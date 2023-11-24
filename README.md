@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,React,TypeScript**
+- 🌱 I’m currently learning **JavaScript,React,Python,ML Frameworks,DL Frameworks,**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react,ML/DL,**
 
 - 📫 How to reach me **hamikhan273@gmail.com**
 
