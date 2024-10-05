@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammad Ahmad</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Generative AI developet from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamikha&label=Profile%20views&color=0e75b6&style=flat" alt="hamikha" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **JavaScript,React,Python,ML Frameworks,DL Frameworks,**
 
-- 💬 Ask me about **react,ML/DL,**
+- 💬 Ask me about **python,ML/DL,NLP,LLMs,RAG**
 
 - 📫 How to reach me **hamikhan273@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I was medical student**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
