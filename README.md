@@ -7,7 +7,6 @@
 
 ## About me
 
-- 🎓 PhD student in **Artificial Intelligence in Medicine and Health** at the University of Louisville (J.B. Speed School of Engineering)
 - 🌲 Graduate Research Assistant in **Biosystems Engineering at Auburn University**, working on AI and sensing for forestry
 - 🔭 Currently building:
   - a handheld **3D time-of-flight + RGB camera rig** for automated tree inventory (calibration, colorized point clouds, SLAM)
