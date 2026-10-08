@@ -1,30 +1,66 @@
-<h1 align="center">Hi 👋, I'm Hammad Ahmad</h1>
-<h3 align="center">A passionate Generative AI developer from Pakistan</h3>
+<h1 align="center">Hi 👋, I'm Hammad Ahmad (Hami)</h1>
+<h3 align="center">AI engineer & researcher from Pakistan, now based in the US</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamikha&label=Profile%20views&color=0e75b6&style=flat" alt="hamikha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamikha" alt="hamikha" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript,React,Python,ML Frameworks,DL Frameworks,**
-
-- 💬 Ask me about **python,ML/DL,NLP,LLMs,RAG**
-
-- 📫 How to reach me **hamikhan273@gmail.com**
-
-- ⚡ Fun fact **I think I was medical student**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hammad-ahmad-b91ba0247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hammad-ahmad-b91ba0247" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamikha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## About me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamikha&show_icons=true&locale=en&layout=compact" alt="hamikha" /></p>
+- 🎓 PhD student in **Artificial Intelligence in Medicine and Health** at the University of Louisville (J.B. Speed School of Engineering)
+- 🌲 Graduate Research Assistant in **Biosystems Engineering at Auburn University**, working on AI and sensing for forestry
+- 🔭 Currently building:
+  - a handheld **3D time-of-flight + RGB camera rig** for automated tree inventory (calibration, colorized point clouds, SLAM)
+  - a **tree growth simulator / digital forest twin** built around the USDA Forest Vegetation Simulator (FVS)
+- 🌱 Currently learning: 3D computer vision, SLAM, GIS (ArcGIS Pro), and forest growth modeling
+- 💬 Ask me about: Python, ML/DL, NLP, LLMs, RAG, voice AI, point clouds
+- 🏅 Graduated first in my cohort (B.Sc., UET Peshawar)
+- 📫 Reach me at **hamikhan273@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamikha&show_icons=true&locale=en" alt="hamikha" /></p>
+## Tech stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamikha&" alt="hamikha" /></p>
+**Languages & web**
+
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,c,js,html,css,react,bootstrap" alt="Languages and web" /></a>
+</p>
+
+**AI / ML & computer vision**
+
+<!-- Add pytorch, tensorflow or sklearn to the list below if you use them -->
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=opencv,matlab" alt="AI and computer vision" /></a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" />
+  <img src="https://img.shields.io/badge/Chroma-327EFF?style=for-the-badge" alt="Chroma" />
+</p>
+
+**Databases & tools**
+
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,git,linux,postman,arduino" alt="Databases and tools" /></a>
+</p>
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hammad-ahmad-b91ba0247" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:hamikhan273@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+</p>
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamikha&show_icons=true&theme=transparent&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamikha&layout=compact&theme=transparent&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hamikha&hide_border=true" alt="GitHub streak" />
+</p>
